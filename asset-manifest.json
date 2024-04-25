@@ -1,16 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/Portfolio/static/js/main.ab97c77e.js",
+    "main.js": "/Portfolio/static/js/main.1ff4dd52.js",
     "static/js/453.bae2a4bd.chunk.js": "/Portfolio/static/js/453.bae2a4bd.chunk.js",
-    "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/rythmRunner.png": "/Portfolio/static/media/rythmRunner.a7c26f08f3c379d84640.png",
+    "static/media/CubeGame.PNG": "/Portfolio/static/media/CubeGame.89b2ad2eb57af257aba0.PNG",
+    "static/media/Wizard.PNG": "/Portfolio/static/media/Wizard.e5013e41c2ea7c922f29.PNG",
+    "static/media/balls.PNG": "/Portfolio/static/media/balls.088481c57379c7a37c96.PNG",
     "index.html": "/Portfolio/index.html",
     "main.f855e6bc.css.map": "/Portfolio/static/css/main.f855e6bc.css.map",
-    "main.ab97c77e.js.map": "/Portfolio/static/js/main.ab97c77e.js.map",
+    "main.1ff4dd52.js.map": "/Portfolio/static/js/main.1ff4dd52.js.map",
     "453.bae2a4bd.chunk.js.map": "/Portfolio/static/js/453.bae2a4bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ab97c77e.js"
+    "static/js/main.1ff4dd52.js"
   ]
 }
