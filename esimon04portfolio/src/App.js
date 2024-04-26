@@ -1,17 +1,14 @@
 import './App.css';
-import Projects from "./Projects";
+import GamePortfolio from './GameShowcase/GamePortfolio';
+import SkillCareer from './Skills/SkillsCareer';
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font">
-      <div style={{
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        }}>
-          <Projects />
+    <main className="App">
+      <div className="flex-container">
+        <GamePortfolio/>
+        <SkillCareer/>
       </div>
-      
     </main>
   );
 }

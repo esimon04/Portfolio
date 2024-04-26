@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  padding: 20px
+}
+
+.App-gap
+{
+  padding: 20px
 }
 
 .App-logo {
@@ -24,15 +29,9 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.flex-container {
+  display: flex;
+  flex-direction: column;  /* Vertical direction */
+  gap: 20px;  /* Gap between the games and skills */
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+  

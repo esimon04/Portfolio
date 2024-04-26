@@ -1,0 +1,7 @@
+.skills-career-section
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* 2 columns of equal width */
+    grid-template-rows: auto auto; /* 2 rows, auto-adjusting height */
+    gap: 20px
+}

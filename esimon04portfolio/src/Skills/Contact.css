@@ -1,0 +1,16 @@
+.contact-section {
+    margin-bottom: 20px;  /* Space between subsections */
+    background-color: lightgrey;  /* Light background color */
+    border: 4px solid black; /* Border around the skills */
+    border-radius: 10px;    /* Rounded corners for a smoother look */
+  }
+
+  .contact-section h1 {
+    margin-bottom: 10px;  /* Space below the heading */
+    text-align: center;
+  }
+
+  .contact-section h2 {
+    margin-bottom: 10px;  /* Space below the heading */
+    text-align: center;
+  }
