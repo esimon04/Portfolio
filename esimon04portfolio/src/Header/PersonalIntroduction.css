@@ -1,0 +1,22 @@
+.personal-introduction {
+    padding: 20px;  /* Padding around the entire section */
+    text-align: center;  /* Center the text content */
+    background-color: #f5f5f5;  /* Background color for a soft look */
+  }
+  
+  .personal-introduction h1 {
+    font-size: 2em;  /* Larger font for the greeting */
+    margin-bottom: 10px;  /* Space below the greeting */
+  }
+  
+  .personal-introduction h2 {
+    font-size: 1.5em;  /* Slightly smaller font for the name */
+    margin-bottom: 10px;  /* Space below the name */
+  }
+  
+  .personal-introduction p {
+    font-size: 1em;  /* Standard font size for the description */
+    line-height: 1.5;  /* Increased line height for better readability */
+    margin-bottom: 20px;  /* Space below the description */
+  }
+  

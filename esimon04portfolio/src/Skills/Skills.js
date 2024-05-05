@@ -12,17 +12,21 @@ const SkillsSection = () => {
     'Ruby',
     'Assembly(x86)',
     'JavaScript',
+    'Lua',
+    'OCaml'
   ];
 
   const tools = [
     'Unity',
     'React',
     'Git',
+    'Github',
     'Aseprite',
     'Bitbucket',
     'Jenkins',
     'Jira',
-    'Visual Studio'
+    'Visual Studio',
+    'Agile Methodology'
   ];
 
   return (

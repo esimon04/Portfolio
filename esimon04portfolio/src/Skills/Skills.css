@@ -1,12 +1,11 @@
 .skills-section {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* 2 columns of equal width */
-    grid-template-rows: auto auto; /* 2 rows, auto-adjusting height */
-    gap: 20px
+    display: flex;
+    flex-direction: column;
+    gap: px
   }
   
   .skills-section h2 {
-    margin-bottom: 10px;  /* Space below the heading */
+    margin-bottom: 0px;  /* Space below the heading */
     text-align: center;
   }
   
@@ -22,7 +21,7 @@
   
   /* Ensure each subsection has its own space */
   .skills-subsection {
-    margin-bottom: 20px;  /* Space between subsections */
+    margin-bottom: 5px;  /* Space between subsections */
     background-color: lightgrey;  /* Light background color */
     border: 4px solid black; /* Border around the skills */
     border-radius: 10px;    /* Rounded corners for a smoother look */
@@ -31,8 +30,12 @@
   /* Style for individual grid items */
 .skills-grid-item {
 
-    padding: 5px;  /* Padding for individual items */
+    padding: 2px;  /* Padding for individual items */
     text-align: center;  /* Center the text within each item */
+}
+
+.skills-grid {
+  padding: 25px
 }
   
   

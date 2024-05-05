@@ -1,0 +1,47 @@
+.career {
+    margin-bottom: 20px;  /* Space between subsections */
+    background-color: lightgrey;  /* Light background color */
+    border: 4px solid black; /* Border around the skills */
+    border-radius: 10px;    /* Rounded corners for a smoother look */
+    padding: 10px;  /* Padding for individual items */
+    text-align: center;  /* Center the text within each item */
+    width: 50%
+}
+
+  
+  .career h2 {
+    text-align: center;  /* Center-align the section title */
+    margin-bottom: 20px;  /* Space below the section title */
+  }
+  
+  .career-item {
+    padding: 5px;  /* Padding around individual career items */
+    border-radius: 5px;  /* Rounded corners for a softer look */
+    margin-bottom: 0px;  /* Space between career items */
+  }
+  
+  .career-item h3 {
+    text-align: left;
+    font-size: 1.2em;  /* Slightly larger font for the company name */
+    margin-bottom: 5px;  /* Space below the company name */
+  }
+  
+  .career-item h4 {
+    text-align: left;
+    font-size: 1em;  /* Font size for the position */
+    color: #555;  /* Subtle color to differentiate from company name */
+    margin-bottom: 10px;  /* Space below the position */
+  }
+  
+  .career-item ul {
+    text-align: left;
+    list-style-type: disc;  /* Use disc bullet points */
+    padding-left: 20px;  /* Indentation for bullet points */
+  }
+  
+  .career-item li {
+    text-align: left;
+    margin-bottom: 0px;  /* Space between bullet points */
+    font-size: 0.9em;  /* Font size for bullet points */
+  }
+

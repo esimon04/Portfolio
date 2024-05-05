@@ -6,9 +6,11 @@ const GameCard = ({ game }) => {
   return (
     <a href={game.link} className="game-card-link" target="_blank" rel="noopener noreferrer"> {/* Target new tab */}
         <div className="game-card">
-            <h3>{game.title}</h3>
             <img src={game.image} alt={game.title} />
-            <p>{game.description}</p>
+            <div>
+              <h3>{game.title}</h3>
+              <p>{game.description}</p>
+            </div>
         </div>
     </a>
   );
