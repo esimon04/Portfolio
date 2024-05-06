@@ -3,8 +3,18 @@ import rythmImg from "./rythmRunner.png"
 import ballsImg from "./balls.PNG"
 import wizardImg from "./Wizard.PNG"
 import cubeImg from "./CubeGame.PNG"
+import cityImg from "./City.PNG"
 
 export const projects = [
+  {
+    title: "Current Project - City Builder",
+    description:
+      "My current project is a grid-based city builder. I've been working on this project for a couple months now. It currently features a procedurally generated grid with oceans and land. The player uses resources to create buildings which in turn either generate more resources"
+      + " or create a worker who is needed to construct buildings. My future plans for this project involve buildings that create combat units for that the player can control and defensive structure like walls and towers. Then eventually add enemy armies that will attack the player. " +
+      " these concepts are inspired by games like 'Stronghold' and 'Kingdoms and Castles'.",
+    image: cityImg,
+    link: "https://esimon04.itch.io/",
+  },
   {
     title: "Rhythm Runner",
     description:
